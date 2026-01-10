@@ -1,0 +1,13 @@
+/* TEAM */
+Developer: ihakalanka
+Site: https://haresh-akalanka.netlify.app/
+Location: Sri Lanka
+
+/* SITE */
+Name: SVG Code Studio
+Description: Free SVG to Code Converter
+Last update: 2026-01-10
+Language: English
+Standards: HTML5, CSS3, ES6+
+Framework: React 19, Vite 7, TypeScript, Tailwind CSS
+Software: VS Code

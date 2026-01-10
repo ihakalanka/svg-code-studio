@@ -1,0 +1,10 @@
+# Security Policy for SVG Code Studio
+
+Contact: https://github.com/ihakalanka/svg-code-studio/issues
+Expires: 2027-01-10T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://ihakalanka.github.io/svg-code-studio/.well-known/security.txt
+
+# This is a client-side only application.
+# No user data is collected or stored.
+# All processing happens in your browser.
