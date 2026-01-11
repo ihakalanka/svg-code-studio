@@ -5,6 +5,7 @@
 
 import { useCallback, useEffect } from 'react';
 import { Header, Footer, DropZone, CodeDisplay, Preview } from './components';
+import { AdUnit } from './components/AdUnit';
 import { useSvgProcessor, useKeyboardShortcuts, useClipboard } from './hooks';
 import { useToast } from './context';
 import { validateSvg } from './services';
@@ -79,6 +80,11 @@ export function App() {
         activeTab={CONVERSION_MODES.SVG_TO_CODE} 
         onTabChange={handleTabChange} 
       />
+
+      {/* Ad Unit - Below Header */}
+      <div className="max-w-7xl mx-auto px-4 py-4">
+        <AdUnit adSlot="6615639453" className="rounded-lg overflow-hidden" />
+      </div>
       
       <main id="main-content" className="flex-1 py-8" role="main">
         <div className="max-w-7xl mx-auto px-4">
