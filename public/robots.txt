@@ -1,11 +1,11 @@
 # Robots.txt for SVG Code Studio
-# https://ihakalanka.github.io/svg-code-studio/
+# https://svg-2-code.netlify.app/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://ihakalanka.github.io/svg-code-studio/sitemap.xml
+Sitemap: https://svg-2-code.netlify.app/sitemap.xml
 
 # Crawl-delay (optional, for politeness)
 Crawl-delay: 1

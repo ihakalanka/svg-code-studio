@@ -3,8 +3,8 @@ import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  // Set base path for GitHub Pages - change 'svg-code-studio' to your repo name
-  base: '/svg-code-studio/',
+  // Base path for Netlify (root)
+  base: '/',
   plugins: [react(), tailwindcss()],
   server: {
     port: 3000,
