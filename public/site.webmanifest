@@ -2,8 +2,8 @@
   "name": "SVG Code Studio",
   "short_name": "SVG Studio",
   "description": "Convert SVG files to clean, optimized code instantly. Free online tool for developers and designers.",
-  "start_url": "/svg-code-studio/",
-  "scope": "/svg-code-studio/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#6366f1",
@@ -12,13 +12,13 @@
   "dir": "ltr",
   "icons": [
     {
-      "src": "/svg-code-studio/favicon-192x192.png",
+      "src": "/favicon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/svg-code-studio/favicon-512x512.png",
+      "src": "/favicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -27,7 +27,7 @@
   "categories": ["developer tools", "utilities", "productivity"],
   "screenshots": [
     {
-      "src": "/svg-code-studio/og-image.png",
+      "src": "/og-image.png",
       "sizes": "1200x630",
       "type": "image/png",
       "label": "SVG Code Studio main interface"
